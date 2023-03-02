@@ -1,0 +1,22 @@
+# eles se encontram no 58Km, no entanto, segundo a questão 4, a pergunta é
+# "Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto", porém se eles se
+# cruzarem, então vão estar à mesma distânci À MESMA DISTÂNCIA DE RIBEIRÃO PRETO
+
+# Calculos do 58Km:
+
+
+#   Ribeirão Preto <-100km-> Franca
+
+#   110Km = 30,55m/s
+#   80Km = 22,22m/s
+
+#   adotando Ribeirão Preto como o ponto de origem
+
+#   distancia de A = distancia de B
+
+#   0 + 30,5t = 100000m(100km) -22,3t -600s(10 min de atraso dos pedagios)
+
+#   52,8t = 100600
+#   t ~= 1905,30
+
+#   30,5.(1905,30) ~=58111,74
