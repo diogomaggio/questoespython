@@ -1,0 +1,14 @@
+n = int(input('Digite o valor a ser encontrado na sequencia: '))
+
+a = 0
+b = 1
+
+while a < n:
+    a = b
+    b = a + b
+
+if a != n:
+    print('Esse valor está na sequência de Fibonacci!')
+
+else:
+    print('Esse valor não está na sequencia!')
